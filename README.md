@@ -3,6 +3,10 @@ curated list of cool stuff
 
 # JavaScript
 
+## learning
+
+- https://drboolean.gitbooks.io/mostly-adequate-guide/content/
+
 ## small libraries
 
 - search for small libraries: http://microjs.com/
