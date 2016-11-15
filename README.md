@@ -32,3 +32,7 @@ curated list of cool stuff
 - react + flow https://github.com/verekia/js-stack-from-scratch
 - passportjs + mongodb https://github.com/sahat/hackathon-starter
 - walmart's react http://www.electrode.io/
+
+# youtube
+
+-  add `&list=UL` to URL of video to watch channel in playlist from beginning.
