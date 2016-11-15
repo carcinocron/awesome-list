@@ -22,3 +22,9 @@ curated list of cool stuff
 - https://www.npmjs.com/package/babel-plugin-dedupe-string-literals
 - https://www.npmjs.com/package/babel-plugin-remove-dead-code
 - https://www.npmjs.com/package/babel-runtime-es2015-instance-methods
+
+## starter kits
+
+- react + flow https://github.com/verekia/js-stack-from-scratch
+- passportjs + mongodb https://github.com/sahat/hackathon-starter
+- walmart's react http://www.electrode.io/
