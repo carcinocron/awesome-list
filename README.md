@@ -33,6 +33,10 @@ curated list of cool stuff
 - passportjs + mongodb https://github.com/sahat/hackathon-starter
 - walmart's react http://www.electrode.io/
 
+## api-design
+
+- webhooks https://restful.io/webhooks-dos-and-dont-s-what-we-learned-after-integrating-100-apis-d567405a3671
+
 # youtube
 
 -  add `&list=UL` to URL of video to watch channel in playlist from beginning.
