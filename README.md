@@ -11,7 +11,9 @@ curated list of cool stuff
 
 - search for small libraries: http://microjs.com/
 - templating:
-    - 40kb vDOM https://vuejs.org/v2/guide/ https://github.com/vuejs/awesome-vue
+    - 40kb vDOM
+        - https://vuejs.org/v2/guide/
+        - https://github.com/vuejs/awesome-vue
     - 4kb mustache http://twitter.github.io/hogan.js/
 - EventEmitter: 3.2kb fast and DOM-less https://github.com/primus/eventemitter3
 - router 5kb https://github.com/krasimir/navigo
