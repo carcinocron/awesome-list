@@ -39,6 +39,19 @@ curated list of cool stuff
 
 - webhooks https://restful.io/webhooks-dos-and-dont-s-what-we-learned-after-integrating-100-apis-d567405a3671
 
+# browsers
+
+- [torch](http://torchbrowser.com/) - chromium fork for windows - quick download button for media (e.g. youtube, soundcloud, etc.)
+- [waterfox](https://www.waterfoxproject.org/) - 64bit firefox fork for windows/linux/mac - search engine Ecosia plants trees with its generated revenues
+
+## Browser plugins
+
+- typically, Firefox forks and Chromium forks can run the same plugins as the original source.
+- ublock origin - Firefox, Chromium - blocks ads
+- Magic Actions for Youtube - Firefox, Chromium
+- noscript - Firefox - blocks JavaScript by default (whitelist sites you trust) and many other security features. Not just a JavaScript blocker, imagine it's also like a firewall for the JavaScript you actually do allow to run.
+- Flashgot - Firefox - download media content (flash flvs, youtube videos, and more)
+
 # youtube
 
 -  add `&list=UL` to URL of video to watch channel in playlist from beginning.
