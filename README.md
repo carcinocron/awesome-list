@@ -34,6 +34,7 @@ curated list of cool stuff
 - react + flow https://github.com/verekia/js-stack-from-scratch
 - passportjs + mongodb https://github.com/sahat/hackathon-starter
 - walmart's react http://www.electrode.io/
+- phoenix + postgre + oauth https://github.com/iNeedThis/phoenix-starter
 
 ## api-design
 
