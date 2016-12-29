@@ -36,6 +36,7 @@ curated list of cool stuff
 - walmart's react http://www.electrode.io/
 - phoenix + postgre + oauth https://github.com/iNeedThis/phoenix-starter
 - favicon generators for {ico+apple+android+chrome+windows8} via gulp/grunt/others http://realfavicongenerator.net/
+    - and check/validator
 
 ## api-design
 
