@@ -35,6 +35,7 @@ curated list of cool stuff
 - passportjs + mongodb https://github.com/sahat/hackathon-starter
 - walmart's react http://www.electrode.io/
 - phoenix + postgre + oauth https://github.com/iNeedThis/phoenix-starter
+- favicon generators for {ico+apple+android+chrome+windows8} via gulp/grunt/others http://realfavicongenerator.net/
 
 ## api-design
 
