@@ -58,3 +58,8 @@ curated list of cool stuff
 # youtube
 
 -  add `&list=UL` to URL of video to watch channel in playlist from beginning.
+
+## other
+
+- ffmpeg
+- winFF - GUI for ffmpeg to convert MP4s to AVIs http://winff.org/html_new/downloads.html
