@@ -5,7 +5,8 @@ curated list of cool stuff
 
 ## learning
 
-- https://drboolean.gitbooks.io/mostly-adequate-guide/content/
+- Functional Javascript https://drboolean.gitbooks.io/mostly-adequate-guide/content/
+- Front End Handbook 2017 https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details
 
 ## small libraries
 
@@ -31,6 +32,7 @@ curated list of cool stuff
 
 ## starter kits
 
+- AdoNuxt: adonis + nuxt.js + vue https://github.com/nuxt/adonuxt
 - react + flow https://github.com/verekia/js-stack-from-scratch
 - passportjs + mongodb https://github.com/sahat/hackathon-starter
 - walmart's react http://www.electrode.io/
