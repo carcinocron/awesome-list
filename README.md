@@ -8,6 +8,7 @@ curated list of cool stuff
 - Functional Javascript https://drboolean.gitbooks.io/mostly-adequate-guide/content/
 - Front End Handbook 2017 https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details
 - Redux without React https://www.sitepoint.com/redux-without-react-state-management-vanilla-javascript/
+- another list https://github.com/sindresorhus/awesome-nodejs
 
 ## small libraries
 
