@@ -45,6 +45,7 @@ curated list of cool stuff
 ## api-design
 
 - webhooks https://restful.io/webhooks-dos-and-dont-s-what-we-learned-after-integrating-100-apis-d567405a3671
+- documentation generator - http://zlsa.github.io/indoc/
 
 # browsers
 
