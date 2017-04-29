@@ -48,6 +48,14 @@ curated list of cool stuff
 - webhooks https://restful.io/webhooks-dos-and-dont-s-what-we-learned-after-integrating-100-apis-d567405a3671
 - documentation generator - http://zlsa.github.io/indoc/
 
+## hosting
+
+- free autoscaling nodejs/static hosting (no database) with paid options https://zeit.co/now
+- free MySQL (200MB) https://www.db4free.net/
+    - _"Databases that store more than 200 MB data will be cleared at irregular intervals without notification"_
+- free MySQL (50MB) http://freemysqlhosting.net/
+- free Postgres (20MB) https://blog.dbi-services.com/a-free-postgresql-cloud-database/
+
 # browsers
 
 - [torch](http://torchbrowser.com/) - chromium fork for windows - quick download button for media (e.g. youtube, soundcloud, etc.)
