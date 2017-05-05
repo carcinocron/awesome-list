@@ -18,6 +18,7 @@ curated list of cool stuff
     - 40kb vDOM
         - https://vuejs.org/v2/guide/
         - https://github.com/vuejs/awesome-vue
+        - https://vuejs-tips.github.io/cheatsheet/
     - 4kb mustache http://twitter.github.io/hogan.js/
 - EventEmitter: 3.2kb fast and DOM-less https://github.com/primus/eventemitter3
 - router 5kb https://github.com/krasimir/navigo
