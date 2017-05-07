@@ -23,6 +23,10 @@ curated list of cool stuff
 - EventEmitter: 3.2kb fast and DOM-less https://github.com/primus/eventemitter3
 - router 5kb https://github.com/krasimir/navigo
 
+## IDE
+- sublime text 3
+    - 33 plugins with video examples http://aslanbakan.com/en/blog/33-essential-sublime-text-plugins-for-all-developers/
+
 ## babel
 
 - https://github.com/miraks/babel-plugin-pipe-operator
