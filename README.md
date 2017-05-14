@@ -60,6 +60,14 @@ curated list of cool stuff
     - _"Databases that store more than 200 MB data will be cleared at irregular intervals without notification"_
 - free MySQL (50MB) http://freemysqlhosting.net/
 - free Postgres (20MB) https://blog.dbi-services.com/a-free-postgresql-cloud-database/
+- 7 Reasons NOT to use a Content Delivery Network https://www.sitepoint.com/7-reasons-not-to-use-a-cdn/
+    - Specifically free ones you don't have an SLA with
+
+# CSS/Icons
+
+- custom icons builder http://fontello.com/
+    - Does your site really use all ~1MB of icons?
+- http://tagliala.github.io/vectoriconsroundup/
 
 # browsers
 
