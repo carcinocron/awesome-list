@@ -90,3 +90,6 @@ curated list of cool stuff
 
 - ffmpeg
 - winFF - GUI for ffmpeg to convert MP4s to AVIs http://winff.org/html_new/downloads.html
+- on windows, record mouse (and some keyboard actions) http://www.mouserecorder.com/
+    - can specify playback loop repeat count
+    - delete or modify steps after recording
