@@ -10,6 +10,7 @@ curated list of cool stuff
 - Redux without React https://www.sitepoint.com/redux-without-react-state-management-vanilla-javascript/
 - another list https://github.com/sindresorhus/awesome-nodejs
 - 7 Essential JS Functions https://davidwalsh.name/essential-javascript-functions
+- Funfunfunction https://www.youtube.com/watch?v=OQZKh8Bjdv0&list=PL0zVEGEvSaeFSwPn06GKArptSxiP1Gff8
 
 ## small libraries
 
